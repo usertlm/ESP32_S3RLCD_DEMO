@@ -1,0 +1,15 @@
+# Arduino 构建产物
+.arduino-build/
+build/
+
+# 编译生成的文件
+*.bin
+*.elf
+*.hex
+*.o
+*.d
+
+# 系统 / 编辑器
+.DS_Store
+Thumbs.db
+*.swp
